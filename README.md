@@ -1,8 +1,8 @@
 <div align="center">
     <h3>👋 Hi there 👋</h3>
     <h3>:smiley: I Am Mayank Aggarwal :smiley:	<br>
-    :computer: A Full Stack web developer (MERN) :computer: <br>
-    Who loves to make interactive and responsive websites<br>
+    :computer: A Full Stack Web Developer (MERN) :computer: <br>
+    Who loves to build things for the web<br>
        :pencil2: And also loves solving competitive problems :pen:</h3>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "200" height = "200">
 </div>
